@@ -1,3 +1,7 @@
+# Link-OS プリンタSyslogクライアントの設定をする方法
+
+<img width="500" src="https://images.unsplash.com/photo-1640158615573-cd28feb1bf4e?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D">
+
 ## ■ 1. Syslog
 
 syslogとは「System Logging Protocol」を略した言葉で、システムログなどをsyslogサーバーと呼ばれる特定のサーバーに送信するために使用されるプロトコルのこと。機器の集中管理や遠隔監視で利用されることが多い。
